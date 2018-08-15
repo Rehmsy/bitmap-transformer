@@ -1,3 +1,3 @@
 ## Contributors
-Robyn Navaro
+Robyn Navaro, 
 [Sarah Rehmer](https://github.com/Rehmsy)
